@@ -901,3 +901,1426 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.25-23.39.11:531][774]SourceControl: fatal: /Temp: '/Temp' is outside repository
 [2021.09.25-23.42.39:182][678]Cmd: SELECT NONE
 [2021.09.25-23.42.40:278][782]Cmd: SELECT NONE
+[2021.09.25-23.52.28:696][958]LogContentBrowser: Attempting asset rename: Maps -> Mapas
+[2021.09.25-23.52.29:255][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Map01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Map01_BuiltData.uasset" SILENT=true
+[2021.09.25-23.52.29:264][958]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Map01_BuiltData5226C4364048995A1C711E8425697582.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Map01_BuiltData.uasset'
+[2021.09.25-23.52.29:341][958]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2021.09.25-23.52.29:341][958]SourceControl: Error: NivelBasicoPersonaje/Content/Mapas/Map01_BuiltData.uasset
+[2021.09.25-23.52.29:341][958]SourceControl: Error: Use -f if you really want to add them.
+[2021.09.25-23.52.29:343][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Map01" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Map01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.25-23.52.29:347][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.09.25-23.52.29:353][958]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Map01D523D7F0406CA602888B0DAC41DF3CAA.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Map01.umap'
+[2021.09.25-23.52.29:458][958]LogFileHelpers: Saving map 'Map01' took 0.115
+[2021.09.25-23.52.29:458][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map01" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Maps/Map01.umap" SILENT=true
+[2021.09.25-23.52.29:459][958]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Map011D9001074686DDBFE66D8C90A85A98A4.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Maps/Map01.umap'
+[2021.09.25-23.52.29:674][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.09.25-23.52.29:682][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.09.25-23.52.29:686][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.09.25-23.52.29:705][958]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.25-23.52.29:705][958]LogContentValidation: Display: Validating ObjectRedirector /Game/Maps/Map01.Map01
+[2021.09.25-23.52.29:705][958]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Map01_BuiltData.Map01_BuiltData
+[2021.09.25-23.52.29:705][958]LogContentValidation: Display: Validating World /Game/Mapas/Map01.Map01
+[2021.09.25-23.52.55:144][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.09.25-23.53.04:966][931]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.25-23.53.12:215][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Map01" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Map01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.25-23.53.12:218][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.09.25-23.53.12:224][785]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Map01D42C10554D459A05B024BB9D63F8DC78.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Map01.umap'
+[2021.09.25-23.53.12:277][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Map01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Map01_BuiltData.uasset" SILENT=true
+[2021.09.25-23.53.12:286][785]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Map01_BuiltData0FEA043A4ADC0C4DA4171D871FB522F9.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Map01_BuiltData.uasset'
+[2021.09.25-23.53.12:291][785]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.25-23.53.12:291][785]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Map01_BuiltData.Map01_BuiltData
+[2021.09.25-23.53.12:291][785]LogContentValidation: Display: Validating World /Game/Mapas/Map01.Map01
+[2021.09.25-23.53.50:419][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.09.25-23.53.50:522][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.09.25-23.53.50:535][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.09.25-23.53.50:539][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.09.25-23.53.50:664][159]SourceControl: Error: Updated 1 path from the index
+[2021.09.25-23.53.50:756][159]SourceControl: rm 'NivelBasicoPersonaje/Content/Maps/Map01.umap'
+[2021.09.25-23.53.55:257][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Map01" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Map01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.25-23.53.55:261][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.09.25-23.53.55:267][689]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Map018EA8192C405D9B65DCD3039EAA17AC28.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Map01.umap'
+[2021.09.25-23.53.55:318][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Map01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Map01_BuiltData.uasset" SILENT=true
+[2021.09.25-23.53.55:328][689]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Map01_BuiltDataDAC32C25475FA78FDCE6B19395F89467.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Map01_BuiltData.uasset'
+[2021.09.25-23.53.55:332][689]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.25-23.53.55:332][689]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Map01_BuiltData.Map01_BuiltData
+[2021.09.25-23.53.55:332][689]LogContentValidation: Display: Validating World /Game/Mapas/Map01.Map01
+[2021.09.25-23.54.04:249][749]LogContentBrowser: Attempting asset rename: Map01 -> Mapa01
+[2021.09.25-23.54.04:612][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset" SILENT=true
+[2021.09.25-23.54.04:622][749]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01_BuiltData2124801E4FFBCA7D218B39BABD5FF884.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset'
+[2021.09.25-23.54.04:698][749]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2021.09.25-23.54.04:698][749]SourceControl: Error: NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset
+[2021.09.25-23.54.04:698][749]SourceControl: Error: Use -f if you really want to add them.
+[2021.09.25-23.54.04:704][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.09.25-23.54.04:710][749]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa0103DBEAAB444E4C0FA81E01A79A692A23.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01.umap'
+[2021.09.25-23.54.04:815][749]LogFileHelpers: Saving map 'Mapa01' took 0.115
+[2021.09.25-23.54.04:955][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.09.25-23.54.04:958][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.09.25-23.54.04:966][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.09.25-23.54.04:969][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.09.25-23.54.05:048][749]SourceControl: rm 'NivelBasicoPersonaje/Content/Mapas/Map01.umap'
+[2021.09.25-23.54.05:065][749]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.25-23.54.05:065][749]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa01_BuiltData.Mapa01_BuiltData
+[2021.09.25-23.54.05:065][749]LogContentValidation: Display: Validating World /Game/Mapas/Mapa01.Mapa01
+[2021.09.25-23.54.10:847][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.09.25-23.54.10:854][434]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01FFA2A46D4317F04AD08A0A881B0CF0E4.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01.umap'
+[2021.09.25-23.54.10:905][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset" SILENT=true
+[2021.09.25-23.54.10:915][434]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01_BuiltDataB26C7D564B4F551EAD401DB6DF6999FB.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset'
+[2021.09.25-23.54.10:919][434]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.25-23.54.10:919][434]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa01_BuiltData.Mapa01_BuiltData
+[2021.09.25-23.54.10:919][434]LogContentValidation: Display: Validating World /Game/Mapas/Mapa01.Mapa01
+[2021.09.25-23.54.47:355][325]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.25-23.57.38:455][790]Cmd: STAT FPS
+[2021.09.25-23.57.42:587][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.09.25-23.57.42:594][276]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01AD19BD1C474EE54F75F680AB22C58DCE.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01.umap'
+[2021.09.25-23.57.42:646][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset" SILENT=true
+[2021.09.25-23.57.42:655][276]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01_BuiltData8E56273E4A4EB9DD6A25E8A185409DCC.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset'
+[2021.09.25-23.57.42:660][276]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.25-23.57.42:660][276]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa01_BuiltData.Mapa01_BuiltData
+[2021.09.25-23.57.42:660][276]LogContentValidation: Display: Validating World /Game/Mapas/Mapa01.Mapa01
+[2021.09.26-00.02.23:736][992]Cmd: MODE GRID=0
+[2021.09.26-00.02.25:278][177]Cmd: MODE GRID=1
+[2021.09.26-00.02.36:950][567]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2021.09.26-00.08.30:898][356]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorBlueprintResources/ActorMacros.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorBlueprintResources/ActorMacros.uasset' is outside repository
+[2021.09.26-00.08.30:898][356]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Tutorial/Code/AddingCode.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Tutorial/Code/AddingCode.uasset' is outside repository
+[2021.09.26-00.08.30:898][356]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset' is outside repository
+[2021.09.26-00.08.30:898][356]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Tutorial/BlueprintTutorials: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Tutorial/BlueprintTutorials' is outside repository
+[2021.09.26-00.08.30:898][356]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EngineSky/BP_Sky_Sphere.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EngineSky/BP_Sky_Sphere.uasset' is outside repository
+[2021.09.26-00.08.31:680][448]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Mapas/Mapa01.Mapa01:PersistentLevel.Mapa01
+[2021.09.26-00.08.32:057][448]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.09.26-00.08.32:914][448]LogSlate: Took 0.000651 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.26-01.39.13:420][435]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.26-01.39.13:430][435]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.26-01.39.18:092][993]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2021.09.26-01.39.18:092][993]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.26-01.39.27:848][141]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.26-01.39.34:143][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.09.26-01.39.34:151][881]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa0183701A56480D3167FFB19DB0C0D3C669.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01.umap'
+[2021.09.26-01.39.34:200][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset" SILENT=true
+[2021.09.26-01.39.34:210][881]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01_BuiltData6A560E184CFCBD42D54DA9B3AF322E11.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset'
+[2021.09.26-01.39.34:216][881]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.26-01.39.34:216][881]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa01_BuiltData.Mapa01_BuiltData
+[2021.09.26-01.39.34:216][881]LogContentValidation: Display: Validating World /Game/Mapas/Mapa01.Mapa01
+[2021.09.26-01.40.43:834][205]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.26-01.40.44:060][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.26-01.40.44:064][205]PIE: New page: PIE session: Mapa01 (Sep 25, 2021, 1:40:44 PM)
+[2021.09.26-01.40.44:066][205]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.26-01.40.44:066][205]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.26-01.40.44:073][205]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa01
+[2021.09.26-01.40.44:075][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001858s)
+[2021.09.26-01.40.44:076][205]LogAIModule: Creating AISystem for world Mapa01
+[2021.09.26-01.40.44:076][205]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2021.09.26-01.40.44:076][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa01.Mapa01 to /Game/Mapas/UEDPIE_0_Mapa01.Mapa01 (0.002986s)
+[2021.09.26-01.40.44:090][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.09.26-01.40.44:091][205]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.09.26-01.40.44:091][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.26-01.40.44:091][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.26-01.40.44:091][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.26-01.40.44:091][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.26-01.40.44:091][205]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.26-01.40.44:091][205]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.26-01.40.44:091][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.26-01.40.44:091][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.26-01.40.44:092][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.26-01.40.44:092][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.26-01.40.44:092][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.26-01.40.44:092][205]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.26-01.40.44:095][205]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.26-01.40.44:095][205]LogAudioMixer: Display: 1: FrontRight
+[2021.09.26-01.40.44:095][205]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.26-01.40.44:095][205]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.26-01.40.44:095][205]LogAudioMixer: Display: 4: BackLeft
+[2021.09.26-01.40.44:095][205]LogAudioMixer: Display: 5: BackRight
+[2021.09.26-01.40.44:095][205]LogAudioMixer: Display: 6: SideLeft
+[2021.09.26-01.40.44:095][205]LogAudioMixer: Display: 7: SideRight
+[2021.09.26-01.40.44:104][205]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.09.26-01.40.44:105][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.26-01.40.44:105][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.26-01.40.44:105][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.26-01.40.44:105][205]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.26-01.40.44:105][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.26-01.40.44:105][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.26-01.40.44:106][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.26-01.40.44:106][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.26-01.40.44:106][205]LogInit: FAudioDevice initialized.
+[2021.09.26-01.40.44:106][205]LogAudio: Display: Audio Device (ID: 2) registered with world 'Mapa01'.
+[2021.09.26-01.40.44:120][205]LogLoad: Game class is 'GameModeBase'
+[2021.09.26-01.40.44:131][205]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa01.Mapa01 up for play (max tick rate 0) at 2021.09.25-19.40.44
+[2021.09.26-01.40.44:131][205]LogWorld: Bringing up level for play took: 0.000516
+[2021.09.26-01.40.44:131][205]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.09.26-01.40.44:152][205]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.09.26-01.40.44:175][205]PIE: Server logged in
+[2021.09.26-01.40.44:176][205]PIE: Play in editor total start time 0.338 seconds.
+[2021.09.26-01.40.50:235][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.26-01.40.50:235][900]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa01
+[2021.09.26-01.40.50:235][900]LogWorld: UWorld::CleanupWorld for Mapa01, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-01.40.50:235][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-01.40.50:241][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.26-01.40.50:250][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-01.40.50:268][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.26-01.40.50:268][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.26-01.40.50:269][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.26-01.40.50:287][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.09.26-01.40.50:310][901]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.09.26-01.42.49:841][305]LogSlate: Window 'Mapa01' being destroyed
+[2021.09.26-01.42.49:846][305]LogSlate: Window 'Mapa01' being destroyed
+[2021.09.26-01.42.49:893][305]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-01.42.49:893][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-01.42.51:492][463]LogSlate: Took 0.018459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.26-01.46.40:808][542]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.26-01.46.40:817][542]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.26-01.47.34:227][607]LogContentBrowser: Attempting asset rename: NewFolder -> Juga
+[2021.09.26-01.47.34:228][607]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.26-01.47.44:188][769]LogContentBrowser: Attempting asset rename: Juga -> Jugabilidad
+[2021.09.26-01.47.52:037][330]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.09.26-01.47.52:043][330]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.09.26-01.47.52:051][330]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.09.26-01.48.10:029][488]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ModoDeJuego
+[2021.09.26-01.48.10:079][488]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.09.26-01.48.12:036][720]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Jugabilidad/BP_ModoDeJuego.BP_ModoDeJuego
+[2021.09.26-01.48.12:607][720]LogRenderer: Reallocating scene render targets to support 1616x1000 Format 10 NumSamples 1 (Frame:1).
+[2021.09.26-01.53.49:074][714]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.09.26-01.57.11:821][998]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.09.26-01.57.34:149][599]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Maps/Entry.umap: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Maps/Entry.umap' is outside repository
+[2021.09.26-01.57.34:149][599]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Maps/Templates: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Maps/Templates' is outside repository
+[2021.09.26-01.57.39:342][212]SourceControl: fatal: /Script: '/Script' is outside repository
+[2021.09.26-01.57.41:633][481]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Maps/Entry.umap: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Maps/Entry.umap' is outside repository
+[2021.09.26-01.57.41:633][481]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Maps/Templates: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Maps/Templates' is outside repository
+[2021.09.26-01.57.50:137][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.09.26-01.57.50:144][478]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa0101C6AD7C4B9EE0AD2B92F398CB17E9C4.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01.umap'
+[2021.09.26-01.57.50:197][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset" SILENT=true
+[2021.09.26-01.57.50:207][478]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01_BuiltDataB6B7DF9F4C7D4A937A9A79B6C33F200F.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset'
+[2021.09.26-01.57.50:215][478]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.26-01.57.50:215][478]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa01_BuiltData.Mapa01_BuiltData
+[2021.09.26-01.57.50:215][478]LogContentValidation: Display: Validating World /Game/Mapas/Mapa01.Mapa01
+[2021.09.26-01.58.04:683][194]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.26-01.58.04:700][194]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.26-01.58.12:370][115]LogContentBrowser: Attempting asset rename: NewFolder -> Personaje
+[2021.09.26-01.58.12:370][115]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.26-01.58.41:036][381]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.09.26-01.58.41:042][381]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.09.26-01.58.41:052][381]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.09.26-01.58.50:097][467]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Personaje
+[2021.09.26-01.58.50:150][467]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.09.26-01.59.02:979][982]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/BP_ModoDeJuegoF837466847AC6048D4EE46AF2013A9F5.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Blueprints/Jugabilidad/BP_ModoDeJuego.uasset'
+[2021.09.26-01.59.03:062][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personaje/BP_Personaje" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/BP_Personaje.uasset" SILENT=true
+[2021.09.26-01.59.03:065][982]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/BP_Personaje67EA90DD45354478BF7BBAA77B7B30EC.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/BP_Personaje.uasset'
+[2021.09.26-01.59.03:169][982]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.26-01.59.03:169][982]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Jugabilidad/BP_ModoDeJuego.BP_ModoDeJuego
+[2021.09.26-01.59.03:169][982]LogContentValidation: Display: Validating Blueprint /Game/Personaje/BP_Personaje.BP_Personaje
+[2021.09.26-01.59.03:864][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.09.26-01.59.03:877][ 50]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01931118724507E381E90C93BA9CE4FC89.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01.umap'
+[2021.09.26-01.59.03:925][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset" SILENT=true
+[2021.09.26-01.59.03:935][ 50]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01_BuiltData53ECD0CE4E7D5264417165AB0D500991.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset'
+[2021.09.26-01.59.03:943][ 50]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.26-01.59.03:943][ 50]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa01_BuiltData.Mapa01_BuiltData
+[2021.09.26-01.59.03:943][ 50]LogContentValidation: Display: Validating World /Game/Mapas/Mapa01.Mapa01
+[2021.09.26-02.04.19:732][392]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbx)
+[2021.09.26-02.04.19:850][392]LogFbx: Loading FBX Scene from C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbx
+[2021.09.26-02.04.19:928][392]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.26-02.06.24:855][392]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.26-02.06.25:124][392]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Maria_J_J_Ong : The relative matrices do not match
+[2021.09.26-02.06.25:124][392]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.09.26-02.06.25:124][392]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Maria_J_J_Ong
+[2021.09.26-02.06.25:124][392]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.09.26-02.06.25:138][392]LogMaterial: Display: Material /Game/Personaje/maria_M.maria_M needed to have new flag set bUsedWithSkeletalMesh !
+[2021.09.26-02.06.25:139][392]LogMaterial: Display: Missing cached shadermap for maria_M in PCD3D_SM5, Default, SM5 (DDC key hash: 528ADD7636C249BBA328E0BDA3DD22331819A2BF), compiling. 
+[2021.09.26-02.06.25:237][392]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.09.26-02.06.25:352][392]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 32
+[2021.09.26-02.06.25:352][392]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2021.09.26-02.06.25:352][392]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 26
+[2021.09.26-02.06.25:352][392]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 23
+[2021.09.26-02.06.25:352][392]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2021.09.26-02.06.25:352][392]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2021.09.26-02.06.25:352][392]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2021.09.26-02.06.25:352][392]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2021.09.26-02.06.25:352][392]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2021.09.26-02.06.25:352][392]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.09.26-02.06.25:352][392]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.09.26-02.06.25:352][392]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2021.09.26-02.06.25:352][392]LogTexture: Display: Building textures: maria_diffuse (OODLE_AutoDXT, 2048X2048)
+[2021.09.26-02.06.25:540][392]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.26-02.06.25:540][392]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.26-02.06.25:665][392]LogTexture: Display: Building textures: maria_specular (OODLE_AutoDXT, 2048X2048)
+[2021.09.26-02.06.25:822][392]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.26-02.06.25:822][392]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.26-02.06.25:948][392]LogTexture: Display: Building textures: maria_normal (OODLE_BC5, 2048X2048)
+[2021.09.26-02.06.26:027][392]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.26-02.06.26:027][392]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.26-02.06.26:028][392]LogMaterial: Display: Missing cached shadermap for maria_M in PCD3D_SM5, Default, SM5 (DDC key hash: BB8BAE6D1E92B3F3FF9E85F523A07DA0678A2827), compiling. 
+[2021.09.26-02.06.26:070][392]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2021.09.26-02.06.26:480][392]LogSkeletalMesh: Section 0: Material=0, 14566 triangles
+[2021.09.26-02.06.26:526][392]LogSkeletalMesh: Building Skeletal Mesh personaje...
+[2021.09.26-02.06.26:855][392]LogSkeletalMesh: Section 0: Material=0, 14566 triangles
+[2021.09.26-02.06.26:881][392]LogSkeletalMesh: Built Skeletal Mesh [0.35s] /Game/Personaje/personaje.personaje
+[2021.09.26-02.06.36:622][392]LogSlate: Window 'Message' being destroyed
+[2021.09.26-02.06.36:625][392]Message dialog closed, result: YesAll, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2021.09.26-02.06.43:955][392]LogSlate: Window 'Message' being destroyed
+[2021.09.26-02.06.43:959][392]Message dialog closed, result: Yes, title: Message, text: Would you like to merge all SkeletalMeshes using this skeleton to ensure all bones are merged? This will require to load those SkeletalMeshes.
+[2021.09.26-02.06.45:654][392]LogSlate: Window 'Message' being destroyed
+[2021.09.26-02.06.45:658][392]Message dialog closed, result: Ok, title: Message, text: Failed to merge SkeletalMesh 'DefaultSkeletalMesh'.
+[2021.09.26-02.06.45:675][392]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.26-02.06.45:675][392]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2021.09.26-02.06.45:675][392]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 23 distinct outputs (71.88%)
+[2021.09.26-02.06.45:675][392]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2021.09.26-02.06.45:675][392]LogShaderCompilers: Display: ================================================
+[2021.09.26-02.06.45:729][392]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.06.45:729][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(0) Hips
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(1) Spine
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(2) Spine1
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(3) Spine2
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(4) Neck
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(5) Head
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(7) RightShoulder
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(8) RightArm
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(9) RightForeArm
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(10) RightHand
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(11) RightHandThumb1
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(12) RightHandThumb2
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(13) RightHandThumb3
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(14) RightHandThumb4
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(15) RightHandIndex1
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(16) RightHandIndex2
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(17) RightHandIndex3
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(18) RightHandIndex4
+[2021.09.26-02.06.45:739][392]LogFbx: SortedLinks :(19) RightHandMiddle1
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(20) RightHandMiddle2
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(21) RightHandMiddle3
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(22) RightHandMiddle4
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(23) RightHandRing1
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(24) RightHandRing2
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(25) RightHandRing3
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(26) RightHandRing4
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(27) RightHandPinky1
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(28) RightHandPinky2
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(29) RightHandPinky3
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(30) RightHandPinky4
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(31) LeftShoulder
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(32) LeftArm
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(33) LeftForeArm
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(34) LeftHand
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(35) LeftHandThumb1
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(36) LeftHandThumb2
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(37) LeftHandThumb3
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(38) LeftHandThumb4
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(39) LeftHandIndex1
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(40) LeftHandIndex2
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(41) LeftHandIndex3
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(42) LeftHandIndex4
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(43) LeftHandMiddle1
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(44) LeftHandMiddle2
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(45) LeftHandMiddle3
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(46) LeftHandMiddle4
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(47) LeftHandRing1
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(48) LeftHandRing2
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(49) LeftHandRing3
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(50) LeftHandRing4
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(51) LeftHandPinky1
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(52) LeftHandPinky2
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(53) LeftHandPinky3
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(54) LeftHandPinky4
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(56) LeftLeg
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(57) LeftFoot
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(61) RightLeg
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(62) RightFoot
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(63) RightToeBase
+[2021.09.26-02.06.45:740][392]LogFbx: SortedLinks :(64) RightToe_End
+[2021.09.26-02.06.45:740][392]LogFbx: Parsing AnimStack Take 001
+[2021.09.26-02.06.45:848][392]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Personaje/personaje_Anim.personaje_Anim
+[2021.09.26-02.06.45:865][392]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.26-02.06.45:865][392]FBXImport: Warning: The following bones are missing from the bind pose:
+HeadTop_End  
+RightHandThumb4  
+RightHandIndex4  
+RightHandMiddle4  
+RightHandRing4  
+RightHandPinky4  
+LeftHandThumb4  
+LeftHandIndex4  
+LeftHandMiddle4  
+LeftHandRing4  
+LeftHandPinky4  
+LeftToe_End  
+RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.09.26-02.06.46:017][392]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_diffuse.png)
+[2021.09.26-02.06.46:130][392]LogTexture: Display: Building textures: personaje_diffuse (OODLE_AutoDXT, 2048X2048)
+[2021.09.26-02.06.46:301][392]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.26-02.06.46:301][392]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.26-02.06.46:392][392]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_normal.png)
+[2021.09.26-02.06.46:486][392]LogTexture: Display: Building textures: personaje_normal (OODLE_BC5, 2048X2048)
+[2021.09.26-02.06.46:548][392]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.26-02.06.46:548][392]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.26-02.06.46:665][392]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.26-02.06.46:701][393]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.26-02.06.46:701][393]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.09.26-02.06.46:702][393]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.09.26-02.06.46:702][393]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.26-02.06.46:702][393]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2021.09.26-02.06.46:702][393]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 30
+[2021.09.26-02.06.46:702][393]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 27
+[2021.09.26-02.06.46:702][393]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 24
+[2021.09.26-02.06.46:702][393]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 21
+[2021.09.26-02.06.46:702][393]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2021.09.26-02.06.46:702][393]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2021.09.26-02.06.46:702][393]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 12
+[2021.09.26-02.06.46:702][393]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2021.09.26-02.06.46:702][393]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2021.09.26-02.06.46:702][393]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.09.26-02.06.46:702][393]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-02.06.46:729][394]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2021.09.26-02.06.46:789][395]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2021.09.26-02.06.46:789][395]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is outside repository
+[2021.09.26-02.06.46:789][395]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is outside repository
+[2021.09.26-02.06.54:096][212]LogSlate: Window 'Message Log' being destroyed
+[2021.09.26-02.06.54:100][212]LogSlate: Window 'Message Log' being destroyed
+[2021.09.26-02.07.27:610][124]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Personaje/personaje_Anim.personaje_Anim
+[2021.09.26-02.07.27:709][124]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.09.26-02.07.27:713][124]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2021.09.26-02.07.27:843][124]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.09.26-02.07.27:970][124]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.09.26-02.07.27:971][124]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.09.26-02.07.28:594][124]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.09.26-02.07.42:663][414]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2021.09.26-02.07.42:664][414]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2021.09.26-02.07.42:664][414]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2021.09.26-02.07.56:182][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personaje/personaje_Anim" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_Anim.uasset" SILENT=true
+[2021.09.26-02.07.56:189][819]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/personaje_Anim89B980864F3374BAFC55BF9093D543E2.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_Anim.uasset'
+[2021.09.26-02.07.56:287][819]AssetCheck: New page: Asset Save: personaje_Anim
+[2021.09.26-02.07.56:287][819]LogContentValidation: Display: Validating AnimSequence /Game/Personaje/personaje_Anim.personaje_Anim
+[2021.09.26-02.07.57:217][911]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.07.57:217][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.07.57:237][911]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.07.57:237][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.07.57:275][911]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.07.57:275][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.08.03:442][605]LogSlate: Window 'BP_ModoDeJuego' being destroyed
+[2021.09.26-02.08.03:448][605]LogSlate: Window 'BP_ModoDeJuego' being destroyed
+[2021.09.26-02.08.03:486][605]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.08.03:486][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.08.11:933][606]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Personaje/maria_M.maria_M
+[2021.09.26-02.08.11:934][606]LogMaterial: Display: Missing cached shadermap for maria_M in PCD3D_SM5, Default, SM5 (DDC key hash: 0960C7D83E173414B9CFD2DAC166DAF5400F7C86), compiling. 
+[2021.09.26-02.08.12:098][606]LogMaterial: Display: Missing cached shadermap for maria_M in PCD3D_SM5, Default, SM5 (DDC key hash: 65540AB208220EED3336CECFAA2F0A7F82E3C79C), compiling. 
+[2021.09.26-02.08.12:100][606]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D78EE4537AFC168372389954388686AE67D7F50), compiling. 
+[2021.09.26-02.08.12:101][606]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: AD45EA1817B068A16053AE8F049F0BF2B3824B05), compiling. 
+[2021.09.26-02.08.12:102][606]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A4977AB10A8FE7B489F24ED8E21801E2029559B), compiling. 
+[2021.09.26-02.08.12:118][606]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.26-02.08.12:118][606]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.09.26-02.08.12:118][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.26-02.08.12:215][607]MaterialEditorStats: Base pass shader: 127 instructions
+[2021.09.26-02.08.12:215][607]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2021.09.26-02.08.12:215][607]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.26-02.08.12:215][607]MaterialEditorStats: Base pass vertex shader: 98 instructions
+[2021.09.26-02.08.12:215][607]MaterialEditorStats: Texture samplers: 5/16
+[2021.09.26-02.08.12:215][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.09.26-02.08.12:215][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.26-02.08.12:237][608]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.26-02.08.12:237][608]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.09.26-02.08.12:237][608]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.09.26-02.08.12:237][608]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.26-02.08.12:251][609]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.26-02.08.12:251][609]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.09.26-02.08.12:251][609]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.09.26-02.08.12:252][609]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.26-02.08.12:285][611]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.26-02.08.12:285][611]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.09.26-02.08.12:285][611]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.09.26-02.08.12:285][611]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.26-02.08.17:101][125]LogMaterialEditor: Saving and Compiling material maria_M
+[2021.09.26-02.08.17:185][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personaje/maria_M" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/maria_M.uasset" SILENT=true
+[2021.09.26-02.08.17:191][125]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/maria_M992CB28741E5606A8D912B8B655A279F.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/maria_M.uasset'
+[2021.09.26-02.08.17:291][125]AssetCheck: New page: Asset Save: maria_M
+[2021.09.26-02.08.17:291][125]LogContentValidation: Display: Validating Material /Game/Personaje/maria_M.maria_M
+[2021.09.26-02.08.18:301][229]LogSlate: Window 'maria_M' being destroyed
+[2021.09.26-02.08.18:337][229]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.08.18:337][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.08.20:044][424]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Personaje/BP_Personaje.BP_Personaje
+[2021.09.26-02.08.27:589][182]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2021.09.26-02.08.27:589][182]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2021.09.26-02.08.27:589][182]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2021.09.26-02.09.00:498][887]BlueprintLog: New page: Compile BP_Personaje
+[2021.09.26-02.09.00:607][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.09.26-02.09.01:284][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personaje/BP_Personaje" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/BP_Personaje.uasset" SILENT=true
+[2021.09.26-02.09.01:294][954]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/BP_PersonajeB5C2E84547BFDD69F9B5D88900EA004C.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/BP_Personaje.uasset'
+[2021.09.26-02.09.01:306][954]AssetCheck: New page: Asset Save: BP_Personaje
+[2021.09.26-02.09.01:306][954]LogContentValidation: Display: Validating Blueprint /Game/Personaje/BP_Personaje.BP_Personaje
+[2021.09.26-02.09.03:828][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.09.26-02.09.03:829][225]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mapas/Mapa01' took 0.056
+[2021.09.26-02.09.03:830][225]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Personaje/personaje] ([1] browsable assets)...
+[2021.09.26-02.09.03:838][225]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Personaje/personaje.personaje]
+[2021.09.26-02.09.03:838][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/Personaje/personaje]
+[2021.09.26-02.09.03:866][225]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/personaje_Auto1BE38DFB048C45E48F594C4A56AEEC952.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Autosaves/Game/Personaje/personaje_Auto1.uasset'
+[2021.09.26-02.09.03:867][225]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton] ([1] browsable assets)...
+[2021.09.26-02.09.03:867][225]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton]
+[2021.09.26-02.09.03:869][225]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/DefaultSkeletalMesh_Skeleton_Aut25D87AE4407120808EFC3E91DE9A93DC.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Autosaves/Engine/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton_Auto1.uasset'
+[2021.09.26-02.09.03:870][225]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Personaje/personaje_PhysicsAsset] ([1] browsable assets)...
+[2021.09.26-02.09.03:877][225]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Personaje/personaje_PhysicsAsset.personaje_PhysicsAsset]
+[2021.09.26-02.09.03:877][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/Personaje/personaje_PhysicsAsset]
+[2021.09.26-02.09.03:883][225]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/personaje_PhysicsAsset_Auto1D78C10384D8FEAA5AFF10FAAFCED5D76.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Autosaves/Game/Personaje/personaje_PhysicsAsset_Auto1.uasset'
+[2021.09.26-02.09.03:884][225]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Personaje/personaje_diffuse] ([1] browsable assets)...
+[2021.09.26-02.09.03:888][225]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Personaje/personaje_diffuse.personaje_diffuse]
+[2021.09.26-02.09.03:888][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/Personaje/personaje_diffuse]
+[2021.09.26-02.09.03:896][225]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/personaje_diffuse_Auto16684DEAE42801010C35AFEA9D95D2FB0.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Autosaves/Game/Personaje/personaje_diffuse_Auto1.uasset'
+[2021.09.26-02.09.03:896][225]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Personaje/personaje_normal] ([1] browsable assets)...
+[2021.09.26-02.09.03:901][225]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Personaje/personaje_normal.personaje_normal]
+[2021.09.26-02.09.03:901][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/Personaje/personaje_normal]
+[2021.09.26-02.09.03:909][225]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/personaje_normal_Auto110FF5AF84F6B86187A2400BF28E2DD82.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Autosaves/Game/Personaje/personaje_normal_Auto1.uasset'
+[2021.09.26-02.09.03:909][225]LogFileHelpers: Auto-saving content packages took 0.080
+[2021.09.26-02.09.31:946][429]AssetReimport: New page: Outstanding source content changes 2:09:31 PM
+[2021.09.26-02.09.32:022][430]LogEditorFactories: Performing atomic reimport of [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbx]
+[2021.09.26-02.09.32:067][430]LogFbx: Loading FBX Scene from C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbx
+[2021.09.26-02.09.32:125][430]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.26-02.09.32:130][430]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Maria_J_J_Ong
+[2021.09.26-02.09.32:413][430]LogSkeletalMesh: Section 0: Material=0, 14566 triangles
+[2021.09.26-02.09.32:455][430]LogEditorFactories: -- imported successfully
+[2021.09.26-02.09.32:460][430]LogSkeletalMesh: Building Skeletal Mesh personaje...
+[2021.09.26-02.09.32:690][430]LogSkeletalMesh: Section 0: Material=0, 14566 triangles
+[2021.09.26-02.09.32:708][430]LogSkeletalMesh: Built Skeletal Mesh [0.25s] /Game/Personaje/personaje.personaje
+[2021.09.26-02.09.32:726][430]LogEditorFactories: Performing atomic reimport of [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbx]
+[2021.09.26-02.09.32:771][430]LogFbx: Loading FBX Scene from C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbx
+[2021.09.26-02.09.32:829][430]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.26-02.09.32:832][430]LogFbx: Parsing AnimStack Take 001
+[2021.09.26-02.09.32:916][430]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Personaje/personaje_Anim.personaje_Anim
+[2021.09.26-02.09.32:916][430]LogEditorFactories: -- imported successfully
+[2021.09.26-02.09.32:955][430]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Personaje/personaje_Anim.personaje_Anim
+[2021.09.26-02.09.32:955][430]LoadErrors: Error: The Skeleton  DefaultSkeletalMesh_Skeleton is missing bones that SkeletalMesh  DefaultSkeletalMesh needs. They will be added now. Please save the Skeleton!
+[2021.09.26-02.09.33:018][431]LogEditorFactories: Performing atomic reimport of [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_diffuse.png]
+[2021.09.26-02.09.33:030][431]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_diffuse.png)
+[2021.09.26-02.09.33:317][431]LogEditorFactories: -- imported successfully
+[2021.09.26-02.09.33:341][432]LogEditorFactories: Performing atomic reimport of [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_normal.png]
+[2021.09.26-02.09.33:348][432]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_normal.png)
+[2021.09.26-02.09.33:511][432]LogEditorFactories: -- imported successfully
+[2021.09.26-02.09.33:553][433]LogEditorFactories: Performing atomic reimport of [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbm/maria_normal.png]
+[2021.09.26-02.09.33:560][433]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbm/maria_normal.png)
+[2021.09.26-02.09.33:717][433]LogEditorFactories: -- imported successfully
+[2021.09.26-02.09.33:736][434]LogEditorFactories: Performing atomic reimport of [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbm/maria_diffuse.png]
+[2021.09.26-02.09.33:747][434]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbm/maria_diffuse.png)
+[2021.09.26-02.09.34:026][434]LogEditorFactories: -- imported successfully
+[2021.09.26-02.09.34:047][435]LogEditorFactories: Performing atomic reimport of [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbm/maria_specular.png]
+[2021.09.26-02.09.34:056][435]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbm/maria_specular.png)
+[2021.09.26-02.09.34:293][435]LogEditorFactories: -- imported successfully
+[2021.09.26-02.09.34:379][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personaje/personaje_Anim" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_Anim.uasset" SILENT=true
+[2021.09.26-02.09.34:385][436]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/personaje_Anim01B88D6E47C165F7CA9C8E8E43D2838E.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_Anim.uasset'
+[2021.09.26-02.09.34:414][437]AssetCheck: New page: Asset Save: personaje_Anim
+[2021.09.26-02.09.34:414][437]LogContentValidation: Display: Validating AnimSequence /Game/Personaje/personaje_Anim.personaje_Anim
+[2021.09.26-02.09.37:283][758]LogSlate: Window 'Message Log' being destroyed
+[2021.09.26-02.09.37:289][758]LogSlate: Window 'Message Log' being destroyed
+[2021.09.26-02.09.37:396][769]AssetReimport: Reimported asset personaje from C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbx.
+[2021.09.26-02.09.37:396][769]AssetReimport: Reimported asset personaje_Anim from C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbx.
+[2021.09.26-02.09.37:396][769]AssetReimport: Reimported asset personaje_diffuse from C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_diffuse.png.
+[2021.09.26-02.09.37:396][769]AssetReimport: Reimported asset personaje_normal from C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_normal.png.
+[2021.09.26-02.09.37:396][769]AssetReimport: Reimported asset maria_normal from C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbm/maria_normal.png.
+[2021.09.26-02.09.37:396][769]AssetReimport: Reimported asset maria_diffuse from C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbm/maria_diffuse.png.
+[2021.09.26-02.09.37:396][769]AssetReimport: Reimported asset maria_specular from C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.fbm/maria_specular.png.
+[2021.09.26-02.09.40:535][128]BlueprintLog: New page: Compile BP_Personaje
+[2021.09.26-02.09.40:577][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.09.26-02.09.41:127][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personaje/BP_Personaje" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/BP_Personaje.uasset" SILENT=true
+[2021.09.26-02.09.41:134][183]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/BP_Personaje69BFC2134633311E435B2AB36A6F7A37.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/BP_Personaje.uasset'
+[2021.09.26-02.09.41:143][183]AssetCheck: New page: Asset Save: BP_Personaje
+[2021.09.26-02.09.41:143][183]LogContentValidation: Display: Validating Blueprint /Game/Personaje/BP_Personaje.BP_Personaje
+[2021.09.26-02.09.44:705][607]LogSlate: Window 'BP_Personaje' being destroyed
+[2021.09.26-02.09.44:708][607]LogSlate: Window 'BP_Personaje' being destroyed
+[2021.09.26-02.09.44:737][607]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.09.44:737][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.09.47:332][910]MapCheck: New page: Map Check
+[2021.09.26-02.09.47:353][910]Cmd: MAP REBUILD ALLVISIBLE
+[2021.09.26-02.09.47:353][910]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.09.26-02.09.47:405][910]LogWorld: UWorld::CleanupWorld for Mapa01, bSessionEnded=true, bCleanupResources=false
+[2021.09.26-02.09.47:418][910]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.09.26-02.09.47:418][910]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.09.26-02.09.47:418][910]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.09.26-02.09.47:459][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.09.26-02.09.47:482][910]LogLevel: Display: Export Material TexCoord Scales took 0.019 seconds.
+[2021.09.26-02.09.47:484][910]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2021.09.26-02.09.47:497][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.09.26-02.09.47:501][910]LightingResults: New page: Lighting Build - Sep 25, 2021, 2:09:47 PM
+[2021.09.26-02.09.47:543][910]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.09.26-02.09.47:612][910]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.09.26-02.09.47:619][910]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.09.26-02.09.48:127][910]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.09.26-02.09.48:127][910]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10916
+[2021.09.26-02.09.50:850][910]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.09.26-02.09.50:850][910]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.09.26-02.09.50:850][910]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.09.26-02.09.50:850][910]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.09.26-02.09.50:850][910]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.09.26-02.09.50:850][910]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.09.26-02.09.50:982][910]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.09.26-02.09.50:983][910]MapCheck: New page: Mapa01 - Sep 25, 2021, 2:09:50 PM
+[2021.09.26-02.09.50:983][910]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.316ms to complete.
+[2021.09.26-02.09.50:985][910]LogEditorBuildUtils: Build time 0:03
+[2021.09.26-02.09.50:998][910]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 566327371A74C7967063283C449C5ED092DC16D9), compiling. 
+[2021.09.26-02.09.51:011][910]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.09.26-02.09.51:012][910]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 40E5401A258115C121855648548B132F6B798F34), compiling. 
+[2021.09.26-02.09.51:015][910]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.09.26-02.09.51:054][910]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.09.26-02.09.51:054][910]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.09.26-02.09.51:054][910]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.09.26-02.09.51:054][910]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.09.26-02.09.51:054][910]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.09.26-02.09.51:058][911]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E196F04F6F9970EA62120D75BF8070669BA10977), compiling. 
+[2021.09.26-02.09.51:061][911]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.09.26-02.09.51:062][911]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.09.26-02.09.51:062][911]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.09.26-02.09.51:062][911]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.09.26-02.09.51:062][911]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ED95D2B258450F45B96DD24FF92CD0213EF3DA23), compiling. 
+[2021.09.26-02.09.51:066][911]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.09.26-02.09.51:071][911]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.09.26-02.09.51:071][911]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.09.26-02.09.51:071][911]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.09.26-02.09.51:071][911]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 09BE4C7A08E9CF5953A86E83F05117832C1466B9), compiling. Is special engine material.
+[2021.09.26-02.09.51:075][911]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.09.26-02.09.51:079][911]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2021.09.26-02.09.51:079][911]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.09.26-02.09.51:079][911]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.09.26-02.09.51:079][911]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A2E71CE4DF26E5630E073D9FE8BE1AFD709D796A), compiling. Is special engine material.
+[2021.09.26-02.09.51:083][911]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.09.26-02.09.51:115][911]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.09.26-02.09.51:115][911]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.09.26-02.09.51:115][911]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.09.26-02.09.51:695][912]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.26-02.09.51:695][912]LogShaderCompilers: Display: Total job queries 122, among them cache hits 40 (32.79%)
+[2021.09.26-02.09.51:695][912]LogShaderCompilers: Display: Tracking 82 distinct input hashes that result in 53 distinct outputs (64.63%)
+[2021.09.26-02.09.51:696][912]LogShaderCompilers: Display: RAM used: 0.28 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.01%
+[2021.09.26-02.09.51:696][912]LogShaderCompilers: Display: ================================================
+[2021.09.26-02.09.51:824][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.09.26-02.09.52:978][954]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2021.09.26-02.09.53:013][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.09.26-02.09.53:020][954]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01BAC6F6E64BB84F6ACE84C38EF1A2FF12.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01.umap'
+[2021.09.26-02.09.53:024][954]LogFileHelpers: Saving map 'Mapa01' took 0.023
+[2021.09.26-02.09.53:036][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personaje/personaje" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.uasset" SILENT=true
+[2021.09.26-02.09.53:069][954]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/personajeB3F03B2E409699AAE9048596BD78A435.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.uasset'
+[2021.09.26-02.09.53:226][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton" FILE="../../../Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset" SILENT=true
+[2021.09.26-02.09.53:228][954]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/DefaultSkeletalMesh_Skeleton2077478F4B163DBE44D73AA6925222B0.tmp' to '../../../Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset'
+[2021.09.26-02.09.53:241][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personaje/maria_diffuse" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/maria_diffuse.uasset" SILENT=true
+[2021.09.26-02.09.53:495][954]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/maria_diffuseD1647CDB402EF63A3E04C09F75236555.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/maria_diffuse.uasset'
+[2021.09.26-02.09.53:893][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personaje/maria_specular" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/maria_specular.uasset" SILENT=true
+[2021.09.26-02.09.54:099][954]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/maria_specularF70D0F59403C40D9675FFDB1D1405A65.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/maria_specular.uasset'
+[2021.09.26-02.09.54:130][954]Job is a success!
+[2021.09.26-02.09.54:422][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personaje/maria_normal" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/maria_normal.uasset" SILENT=true
+[2021.09.26-02.09.54:618][954]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/maria_normal12D6E6224E007B43FA2D0AAC2CEE75CF.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/maria_normal.uasset'
+[2021.09.26-02.09.54:944][954]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/personaje_PhysicsAssetE92B5A7D498D3AC5B67B038B09F4BD28.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_PhysicsAsset.uasset'
+[2021.09.26-02.09.55:083][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personaje/personaje_diffuse" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_diffuse.uasset" SILENT=true
+[2021.09.26-02.09.55:329][954]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/personaje_diffuse14ED86EB48101C1DAC13EB83391A5CDF.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_diffuse.uasset'
+[2021.09.26-02.09.55:675][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personaje/personaje_normal" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_normal.uasset" SILENT=true
+[2021.09.26-02.09.55:858][954]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/personaje_normal60EBAEC54FEBC23899910A86C44E830E.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje_normal.uasset'
+[2021.09.26-02.09.56:138][954]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.26-02.09.56:138][954]LogContentValidation: Display: Validating World /Game/Mapas/Mapa01.Mapa01
+[2021.09.26-02.09.56:138][954]LogContentValidation: Display: Validating Texture2D /Game/Personaje/personaje_normal.personaje_normal
+[2021.09.26-02.09.56:138][954]LogContentValidation: Display: Validating Texture2D /Game/Personaje/personaje_diffuse.personaje_diffuse
+[2021.09.26-02.09.56:138][954]LogContentValidation: Display: Validating PhysicsAsset /Game/Personaje/personaje_PhysicsAsset.personaje_PhysicsAsset
+[2021.09.26-02.09.56:138][954]LogContentValidation: Display: Validating Texture2D /Game/Personaje/maria_normal.maria_normal
+[2021.09.26-02.09.56:138][954]LogContentValidation: Display: Validating Texture2D /Game/Personaje/maria_specular.maria_specular
+[2021.09.26-02.09.56:138][954]LogContentValidation: Display: Validating Texture2D /Game/Personaje/maria_diffuse.maria_diffuse
+[2021.09.26-02.09.56:138][954]LogContentValidation: Display: Validating SkeletalMesh /Game/Personaje/personaje.personaje
+[2021.09.26-02.09.56:138][954]LogContentValidation: Display: Validating Skeleton /Engine/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.DefaultSkeletalMesh_Skeleton
+[2021.09.26-02.09.56:223][955]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2021.09.26-02.09.56:223][955]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.09.26-02.09.56:223][955]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.09.26-02.09.56:223][955]LogVolumetricLightmapImport:      Bricks at depth
+[2021.09.26-02.09.56:223][955]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2021.09.26-02.09.56:223][955]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2021.09.26-02.09.56:223][955]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2021.09.26-02.09.56:223][955]LogVolumetricLightmapImport:      Bricks in each level
+[2021.09.26-02.09.56:223][955]LogVolumetricLightmapImport:          Mapa01 			 6 bricks 	 100.0% (Persistent Level)
+[2021.09.26-02.09.56:271][955]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 256X256)
+[2021.09.26-02.09.56:271][955]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 256X256)
+[2021.09.26-02.09.56:271][955]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2021.09.26-02.09.56:271][955]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2021.09.26-02.09.56:271][955]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2021.09.26-02.09.56:271][955]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2021.09.26-02.09.56:271][955]LogStaticLightingSystem: Mapa01_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2021.09.26-02.09.56:286][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.09.26-02.09.56:297][955]Lightmass on DESKTOP-5J514UK: 3.21 sec total, 640 ms importing, 35 ms setup, 59 ms photons, 2.43 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 36.4 sec total, 163 ms processing.
+[2021.09.26-02.09.56:314][955]LogStaticLightingSystem: Illumination: 8.76 sec (3 ms encoding lightmaps, 29 ms encoding shadowmaps)
+[2021.09.26-02.09.56:314][955]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.09.26-02.09.56:314][955]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.09.26-02.09.56:864][955]DumpUnbuiltLightIteractions
+[2021.09.26-02.09.56:864][955]Lights with unbuilt interactions: 0
+[2021.09.26-02.09.56:864][955]
+[2021.09.26-02.09.56:864][955]Primitives with unbuilt interactions: 0
+[2021.09.26-02.09.56:911][955]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.09.26-02.09.56:936][956]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.09.26-02.09.56:936][956]MapCheck: New page: Mapa01 - Sep 25, 2021, 2:09:56 PM
+[2021.09.26-02.09.56:936][956]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.214ms to complete.
+[2021.09.26-02.09.56:938][956]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2021.09.26-02.09.59:945][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.09.26-02.09.59:953][306]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa0183ACF38442BF8BE431DB2A8D3D743267.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01.umap'
+[2021.09.26-02.10.00:006][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset" SILENT=true
+[2021.09.26-02.10.00:016][306]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01_BuiltData7B2BC96D4DC3069EF9640880A2CA5162.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset'
+[2021.09.26-02.10.00:023][306]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.26-02.10.00:023][306]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa01_BuiltData.Mapa01_BuiltData
+[2021.09.26-02.10.00:023][306]LogContentValidation: Display: Validating World /Game/Mapas/Mapa01.Mapa01
+[2021.09.26-02.11.44:437][789]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Personaje/personaje_Anim.personaje_Anim
+[2021.09.26-02.11.49:330][789]LogSlate: Window 'Message' being destroyed
+[2021.09.26-02.11.49:333][789]Message dialog closed, result: Yes, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2021.09.26-02.11.49:334][789]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Personaje/personaje_Anim.personaje_Anim
+[2021.09.26-02.11.49:334][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.09.26-02.11.49:601][789]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.09.26-02.11.49:612][790]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2021.09.26-02.11.52:165][ 15]LogSlate: Window 'personaje_Anim' being destroyed
+[2021.09.26-02.11.52:196][ 15]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.11.52:196][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.11.52:203][ 15]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.11.52:203][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.11.52:235][ 15]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.11.52:235][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.11.54:773][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.09.26-02.11.55:687][272]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.26-02.11.55:735][272]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Personaje/personaje_Anim.personaje_Anim
+[2021.09.26-02.11.56:859][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.09.26-02.11.56:873][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.09.26-02.11.56:885][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.26-02.11.56:963][272]SourceControl: rm 'NivelBasicoPersonaje/Content/Personaje/personaje_Anim.uasset'
+[2021.09.26-02.11.58:513][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.09.26-02.11.58:521][447]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa014BD7F4FE494E43D76426ECA526A1564D.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01.umap'
+[2021.09.26-02.11.58:569][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset" SILENT=true
+[2021.09.26-02.11.58:578][447]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01_BuiltDataE3CB2D354EACA5E9A1F696B92F5C0E63.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset'
+[2021.09.26-02.11.58:585][447]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.26-02.11.58:585][447]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa01_BuiltData.Mapa01_BuiltData
+[2021.09.26-02.11.58:585][447]LogContentValidation: Display: Validating World /Game/Mapas/Mapa01.Mapa01
+[2021.09.26-02.12.00:423][665]MapCheck: New page: Map Check
+[2021.09.26-02.12.00:439][665]Cmd: MAP REBUILD ALLVISIBLE
+[2021.09.26-02.12.00:439][665]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.09.26-02.12.00:491][665]LogWorld: UWorld::CleanupWorld for Mapa01, bSessionEnded=true, bCleanupResources=false
+[2021.09.26-02.12.00:495][665]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.09.26-02.12.00:495][665]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.09.26-02.12.00:495][665]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.09.26-02.12.00:507][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.09.26-02.12.00:510][665]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2021.09.26-02.12.00:513][665]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2021.09.26-02.12.00:525][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.09.26-02.12.00:527][665]LightingResults: New page: Lighting Build - Sep 25, 2021, 2:12:00 PM
+[2021.09.26-02.12.00:536][665]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.09.26-02.12.00:540][665]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.09.26-02.12.00:540][665]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.09.26-02.12.00:540][665]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.09.26-02.12.00:540][665]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10916
+[2021.09.26-02.12.05:152][665]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.09.26-02.12.05:152][665]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.09.26-02.12.05:152][665]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.09.26-02.12.05:152][665]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.09.26-02.12.05:152][665]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.09.26-02.12.05:152][665]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.09.26-02.12.05:241][665]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.09.26-02.12.05:241][665]MapCheck: New page: Mapa01 - Sep 25, 2021, 2:12:05 PM
+[2021.09.26-02.12.05:241][665]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.253ms to complete.
+[2021.09.26-02.12.05:243][665]LogEditorBuildUtils: Build time 0:04
+[2021.09.26-02.12.05:311][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.09.26-02.12.06:262][720]Job is a success!
+[2021.09.26-02.12.06:346][722]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2021.09.26-02.12.06:346][722]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.09.26-02.12.06:346][722]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.09.26-02.12.06:346][722]LogVolumetricLightmapImport:      Bricks at depth
+[2021.09.26-02.12.06:346][722]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2021.09.26-02.12.06:346][722]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2021.09.26-02.12.06:346][722]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2021.09.26-02.12.06:346][722]LogVolumetricLightmapImport:      Bricks in each level
+[2021.09.26-02.12.06:346][722]LogVolumetricLightmapImport:          Mapa01 			 6 bricks 	 100.0% (Persistent Level)
+[2021.09.26-02.12.06:357][722]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 256X256)
+[2021.09.26-02.12.06:357][722]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 256X256)
+[2021.09.26-02.12.06:357][722]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2021.09.26-02.12.06:357][722]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2021.09.26-02.12.06:357][722]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2021.09.26-02.12.06:357][722]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X128)
+[2021.09.26-02.12.06:357][722]LogStaticLightingSystem: Mapa01_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2021.09.26-02.12.06:370][722]Lightmass on DESKTOP-5J514UK: 569 ms total, 70 ms importing, 34 ms setup, 44 ms photons, 387 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 5.79 sec total, 147 ms processing.
+[2021.09.26-02.12.06:371][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.09.26-02.12.06:400][722]LogStaticLightingSystem: Illumination: 5.82 sec (3 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2021.09.26-02.12.06:400][722]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.09.26-02.12.06:400][722]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.09.26-02.12.07:159][722]DumpUnbuiltLightIteractions
+[2021.09.26-02.12.07:159][722]Lights with unbuilt interactions: 0
+[2021.09.26-02.12.07:159][722]
+[2021.09.26-02.12.07:159][722]Primitives with unbuilt interactions: 0
+[2021.09.26-02.12.07:203][722]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.09.26-02.12.07:223][723]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.09.26-02.12.07:223][723]MapCheck: New page: Mapa01 - Sep 25, 2021, 2:12:07 PM
+[2021.09.26-02.12.07:223][723]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.28ms to complete.
+[2021.09.26-02.12.13:615][479]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Personaje/personaje_PhysicsAsset.personaje_PhysicsAsset
+[2021.09.26-02.12.13:685][479]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0002 seconds. Added 8 classes and 3 folders.
+[2021.09.26-02.12.13:690][479]LoadErrors: Error: The Skeleton  DefaultSkeletalMesh_Skeleton is missing bones that SkeletalMesh  personaje needs. They will be added now. Please save the Skeleton!
+[2021.09.26-02.12.15:777][479]LogSlate: Window 'Message' being destroyed
+[2021.09.26-02.12.15:781][479]Message dialog closed, result: Yes, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2021.09.26-02.12.15:782][479]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.09.26-02.12.16:223][479]LogRenderer: Reallocating scene render targets to support 1616x1244 Format 10 NumSamples 1 (Frame:1).
+[2021.09.26-02.12.18:423][604]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Engine/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.DefaultSkeletalMesh_Skeleton
+[2021.09.26-02.12.20:093][604]LogSlate: Window 'Message' being destroyed
+[2021.09.26-02.12.20:097][604]Message dialog closed, result: Yes, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2021.09.26-02.12.20:098][604]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.09.26-02.12.24:063][  8]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Personaje/personaje.personaje
+[2021.09.26-02.12.26:881][  8]LogSlate: Window 'Message' being destroyed
+[2021.09.26-02.12.26:885][  8]Message dialog closed, result: Yes, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2021.09.26-02.12.26:887][  8]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.09.26-02.12.27:106][  8]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.09.26-02.12.36:397][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personaje/personaje" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.uasset" SILENT=true
+[2021.09.26-02.12.36:426][937]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/personajeB9693C64463C43F3F260789EAA524E8C.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/personaje.uasset'
+[2021.09.26-02.12.36:437][937]AssetCheck: New page: Asset Save: personaje
+[2021.09.26-02.12.36:437][937]LogContentValidation: Display: Validating SkeletalMesh /Game/Personaje/personaje.personaje
+[2021.09.26-02.12.58:474][434]LogSlate: Window 'Select folder to import to' being destroyed
+[2021.09.26-02.13.04:851][134]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2021.09.26-02.13.18:236][559]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2021.09.26-02.13.18:252][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton" FILE="../../../Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset" SILENT=true
+[2021.09.26-02.13.18:253][559]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/DefaultSkeletalMesh_Skeleton69CB7E834EB444CCEA11B8BE542E8EEB.tmp' to '../../../Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset'
+[2021.09.26-02.13.18:267][559]AssetCheck: New page: Asset Save: DefaultSkeletalMesh_Skeleton
+[2021.09.26-02.13.18:267][559]LogContentValidation: Display: Validating Skeleton /Engine/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.DefaultSkeletalMesh_Skeleton
+[2021.09.26-02.13.18:310][564]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2021.09.26-02.13.22:478][ 39]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.13.22:478][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.13.23:856][158]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.13.23:856][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.13.25:624][340]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Engine/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.DefaultSkeletalMesh_Skeleton
+[2021.09.26-02.13.27:052][340]LogSlate: Window 'Message' being destroyed
+[2021.09.26-02.13.27:055][340]Message dialog closed, result: Yes, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2021.09.26-02.13.27:056][340]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.09.26-02.13.27:234][341]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2021.09.26-02.14.00:059][ 19]LogSlate: Window 'DefaultSkeletalMesh_Skeleton' being destroyed
+[2021.09.26-02.14.00:064][ 19]LogSlate: Window 'DefaultSkeletalMesh_Skeleton' being destroyed
+[2021.09.26-02.14.00:096][ 19]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.14.00:096][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.14.00:135][ 19]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.14.00:136][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.14.04:886][584]LogSlate: Window 'Message Log' being destroyed
+[2021.09.26-02.14.04:889][584]LogSlate: Window 'Message Log' being destroyed
+[2021.09.26-02.14.09:913][156]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Personaje/BP_Personaje.BP_Personaje
+[2021.09.26-02.14.11:764][324]LogSlate: Window 'BP_Personaje' being destroyed
+[2021.09.26-02.14.11:817][324]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.14.11:817][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.14.11:855][324]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Personaje/BP_Personaje.BP_Personaje
+[2021.09.26-02.14.22:483][464]BlueprintLog: New page: Compile BP_Personaje
+[2021.09.26-02.14.22:574][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.09.26-02.14.23:070][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personaje/BP_Personaje" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/BP_Personaje.uasset" SILENT=true
+[2021.09.26-02.14.23:073][513]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/BP_PersonajeE23E4EEB474C68AEDB7F82B15C302578.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Personaje/BP_Personaje.uasset'
+[2021.09.26-02.14.23:084][513]AssetCheck: New page: Asset Save: BP_Personaje
+[2021.09.26-02.14.23:084][513]LogContentValidation: Display: Validating Blueprint /Game/Personaje/BP_Personaje.BP_Personaje
+[2021.09.26-02.14.24:187][644]LogSlate: Window 'BP_Personaje' being destroyed
+[2021.09.26-02.14.24:190][644]LogSlate: Window 'BP_Personaje' being destroyed
+[2021.09.26-02.14.24:226][644]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.14.24:226][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-02.14.27:929][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.09.26-02.14.29:202][ 44]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.26-02.14.29:248][ 44]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/Personaje/maria_diffuse.maria_diffuse
+	Asset Name: /Game/Personaje/maria_M.maria_M
+	Asset Name: /Game/Personaje/maria_normal.maria_normal
+	Asset Name: /Game/Personaje/maria_specular.maria_specular
+	Asset Name: /Game/Personaje/personaje.personaje
+	Asset Name: /Game/Personaje/personaje_diffuse.personaje_diffuse
+	Asset Name: /Game/Personaje/personaje_normal.personaje_normal
+	Asset Name: /Game/Personaje/personaje_PhysicsAsset.personaje_PhysicsAsset
+[2021.09.26-02.14.29:397][ 44]LogMaterial: Display: Missing cached shadermap for maria_M in PCD3D_SM5, Default, SM5 (DDC key hash: 301F44B8817520C189A6AAFBAFE81D97FED37D2D), compiling. 
+[2021.09.26-02.14.29:397][ 44]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadGrupal\NivelBasicoPersonaje\Content\Personaje\maria_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.26-02.14.29:397][ 44]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.26-02.14.29:398][ 44]LogMaterial: Display: Missing cached shadermap for maria_M in PCD3D_SM5, Default, SM5 (DDC key hash: 301F44B8817520C189A6AAFBAFE81D97FED37D2D), compiling. 
+[2021.09.26-02.14.29:399][ 44]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadGrupal\NivelBasicoPersonaje\Content\Personaje\maria_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.26-02.14.29:399][ 44]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.26-02.14.29:399][ 44]LogMaterial: Display: Missing cached shadermap for maria_M in PCD3D_SM5, Default, SM5 (DDC key hash: 301F44B8817520C189A6AAFBAFE81D97FED37D2D), compiling. 
+[2021.09.26-02.14.29:400][ 44]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadGrupal\NivelBasicoPersonaje\Content\Personaje\maria_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.26-02.14.29:400][ 44]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.26-02.14.29:401][ 44]LogMaterial: Display: Missing cached shadermap for maria_M in PCD3D_SM5, Default, SM5 (DDC key hash: 301F44B8817520C189A6AAFBAFE81D97FED37D2D), compiling. 
+[2021.09.26-02.14.29:401][ 44]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadGrupal\NivelBasicoPersonaje\Content\Personaje\maria_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.26-02.14.29:401][ 44]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.26-02.14.29:402][ 44]LogMaterial: Display: Missing cached shadermap for maria_M in PCD3D_SM5, Default, SM5 (DDC key hash: 301F44B8817520C189A6AAFBAFE81D97FED37D2D), compiling. 
+[2021.09.26-02.14.29:402][ 44]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadGrupal\NivelBasicoPersonaje\Content\Personaje\maria_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.26-02.14.29:402][ 44]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.26-02.14.29:403][ 44]LogMaterial: Display: Missing cached shadermap for maria_M in PCD3D_SM5, Default, SM5 (DDC key hash: 301F44B8817520C189A6AAFBAFE81D97FED37D2D), compiling. 
+[2021.09.26-02.14.29:403][ 44]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadGrupal\NivelBasicoPersonaje\Content\Personaje\maria_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.26-02.14.29:403][ 44]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.26-02.14.29:615][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.09.26-02.14.29:628][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.09.26-02.14.29:641][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.09.26-02.14.29:653][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.09.26-02.14.29:666][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.26-02.14.29:679][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.26-02.14.29:690][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.09.26-02.14.29:702][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.26-02.14.29:715][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.09.26-02.14.29:729][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.09.26-02.14.29:820][ 44]SourceControl: rm 'NivelBasicoPersonaje/Content/Personaje/maria_M.uasset'
+[2021.09.26-02.14.29:820][ 44]SourceControl: rm 'NivelBasicoPersonaje/Content/Personaje/maria_diffuse.uasset'
+[2021.09.26-02.14.29:820][ 44]SourceControl: rm 'NivelBasicoPersonaje/Content/Personaje/maria_normal.uasset'
+[2021.09.26-02.14.29:820][ 44]SourceControl: rm 'NivelBasicoPersonaje/Content/Personaje/maria_specular.uasset'
+[2021.09.26-02.14.29:820][ 44]SourceControl: rm 'NivelBasicoPersonaje/Content/Personaje/personaje.uasset'
+[2021.09.26-02.14.29:820][ 44]SourceControl: rm 'NivelBasicoPersonaje/Content/Personaje/personaje_PhysicsAsset.uasset'
+[2021.09.26-02.14.29:820][ 44]SourceControl: rm 'NivelBasicoPersonaje/Content/Personaje/personaje_diffuse.uasset'
+[2021.09.26-02.14.29:820][ 44]SourceControl: rm 'NivelBasicoPersonaje/Content/Personaje/personaje_normal.uasset'
+[2021.09.26-02.14.29:870][ 48]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2021.09.26-02.14.36:261][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.09.26-02.14.36:270][768]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01876CFA9C469EB9D99AC97B846010D755.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01.umap'
+[2021.09.26-02.14.36:320][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset" SILENT=true
+[2021.09.26-02.14.36:329][768]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01_BuiltData1D09F1784F7DA822718C288D6031186B.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset'
+[2021.09.26-02.14.36:336][768]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.26-02.14.36:336][768]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa01_BuiltData.Mapa01_BuiltData
+[2021.09.26-02.14.36:336][768]LogContentValidation: Display: Validating World /Game/Mapas/Mapa01.Mapa01
+[2021.09.26-02.14.44:092][677]MapCheck: New page: Map Check
+[2021.09.26-02.14.44:105][677]Cmd: MAP REBUILD ALLVISIBLE
+[2021.09.26-02.14.44:105][677]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.09.26-02.14.44:157][677]LogWorld: UWorld::CleanupWorld for Mapa01, bSessionEnded=true, bCleanupResources=false
+[2021.09.26-02.14.44:161][677]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.09.26-02.14.44:161][677]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.09.26-02.14.44:161][677]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.09.26-02.14.44:174][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.09.26-02.14.44:179][677]LogLevel: Display: Export Material TexCoord Scales took 0.001 seconds.
+[2021.09.26-02.14.44:181][677]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2021.09.26-02.14.44:192][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.09.26-02.14.44:193][677]LightingResults: New page: Lighting Build - Sep 25, 2021, 2:14:44 PM
+[2021.09.26-02.14.44:205][677]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.09.26-02.14.44:208][677]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.09.26-02.14.44:208][677]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.09.26-02.14.44:209][677]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.09.26-02.14.44:209][677]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10916
+[2021.09.26-02.14.48:743][677]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.09.26-02.14.48:743][677]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.09.26-02.14.48:743][677]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.09.26-02.14.48:743][677]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.09.26-02.14.48:743][677]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.09.26-02.14.48:743][677]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.09.26-02.14.48:833][677]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.09.26-02.14.48:834][677]MapCheck: New page: Mapa01 - Sep 25, 2021, 2:14:48 PM
+[2021.09.26-02.14.48:834][677]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.272ms to complete.
+[2021.09.26-02.14.48:836][677]LogEditorBuildUtils: Build time 0:04
+[2021.09.26-02.14.48:849][677]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.26-02.14.48:850][677]LogShaderCompilers: Display: Total job queries 122, among them cache hits 40 (32.79%)
+[2021.09.26-02.14.48:850][677]LogShaderCompilers: Display: Tracking 82 distinct input hashes that result in 53 distinct outputs (64.63%)
+[2021.09.26-02.14.48:850][677]LogShaderCompilers: Display: RAM used: 0.28 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.01%
+[2021.09.26-02.14.48:850][677]LogShaderCompilers: Display: ================================================
+[2021.09.26-02.14.48:901][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.09.26-02.14.49:791][728]Job is a success!
+[2021.09.26-02.14.49:875][730]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2021.09.26-02.14.49:875][730]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.09.26-02.14.49:875][730]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.09.26-02.14.49:875][730]LogVolumetricLightmapImport:      Bricks at depth
+[2021.09.26-02.14.49:875][730]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2021.09.26-02.14.49:875][730]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2021.09.26-02.14.49:875][730]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2021.09.26-02.14.49:875][730]LogVolumetricLightmapImport:      Bricks in each level
+[2021.09.26-02.14.49:875][730]LogVolumetricLightmapImport:          Mapa01 			 6 bricks 	 100.0% (Persistent Level)
+[2021.09.26-02.14.49:888][730]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 256X256)
+[2021.09.26-02.14.49:888][730]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 256X256)
+[2021.09.26-02.14.49:888][730]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2021.09.26-02.14.49:888][730]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2021.09.26-02.14.49:888][730]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2021.09.26-02.14.49:888][730]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 128X128)
+[2021.09.26-02.14.49:888][730]LogStaticLightingSystem: Mapa01_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2021.09.26-02.14.49:903][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.09.26-02.14.49:914][730]Lightmass on DESKTOP-5J514UK: 566 ms total, 78 ms importing, 31 ms setup, 45 ms photons, 362 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 5.42 sec total, 137 ms processing.
+[2021.09.26-02.14.49:925][730]LogStaticLightingSystem: Illumination: 5.69 sec (3 ms encoding lightmaps, 3 ms encoding shadowmaps)
+[2021.09.26-02.14.49:925][730]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.09.26-02.14.49:925][730]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.09.26-02.14.50:752][730]DumpUnbuiltLightIteractions
+[2021.09.26-02.14.50:752][730]Lights with unbuilt interactions: 0
+[2021.09.26-02.14.50:752][730]
+[2021.09.26-02.14.50:752][730]Primitives with unbuilt interactions: 0
+[2021.09.26-02.14.50:797][730]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.09.26-02.14.50:820][731]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.09.26-02.14.50:820][731]MapCheck: New page: Mapa01 - Sep 25, 2021, 2:14:50 PM
+[2021.09.26-02.14.50:820][731]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.32ms to complete.
+[2021.09.26-02.15.05:624][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.09.26-02.15.07:384][363]LogSlate: Window 'Save Content' being destroyed
+[2021.09.26-02.15.07:469][363]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2021.09.26-02.15.07:487][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton" FILE="../../../Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset" SILENT=true
+[2021.09.26-02.15.07:490][363]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/DefaultSkeletalMesh_SkeletonA7121D0F4B6DC2BCE7015F8ECF543EEC.tmp' to '../../../Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset'
+[2021.09.26-02.15.07:505][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.26-02.15.07:512][363]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01717BF4504D3BC391FC3DE296582FB366.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01.umap'
+[2021.09.26-02.15.07:515][363]LogFileHelpers: Saving map 'Mapa01' took 0.023
+[2021.09.26-02.15.07:515][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset" SILENT=true
+[2021.09.26-02.15.07:524][363]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01_BuiltDataA75DC17248338D920A8FBE8AE64CF7BD.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset'
+[2021.09.26-02.15.07:525][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset" SILENT=true
+[2021.09.26-02.15.07:534][363]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Saved/Mapa01_BuiltDataFFC9EA8D4E5040D84B35E79A88C36D0F.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadGrupal/NivelBasicoPersonaje/Content/Mapas/Mapa01_BuiltData.uasset'
+[2021.09.26-02.15.07:550][363]LogSlate: Window 'NivelBasicoPersonaje - Unreal Editor' being destroyed
+[2021.09.26-02.15.07:551][363]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.26-02.15.07:648][363]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.26-02.15.07:649][363]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa01_BuiltData.Mapa01_BuiltData
+[2021.09.26-02.15.07:649][363]LogContentValidation: Display: Validating World /Game/Mapas/Mapa01.Mapa01
+[2021.09.26-02.15.07:649][363]LogContentValidation: Display: Validating Skeleton /Engine/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.DefaultSkeletalMesh_Skeleton
+[2021.09.26-02.15.07:649][364]Cmd: QUIT_EDITOR
+[2021.09.26-02.15.07:650][364]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.09.26-02.15.07:653][364]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.09.26-02.15.08:604][364]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.09.26-02.15.08:604][364]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.09.26-02.15.08:604][364]LogAudio: Display: Audio Device unregistered from world 'Mapa01'.
+[2021.09.26-02.15.08:604][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.26-02.15.08:605][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.26-02.15.08:608][364]LogAudio: Display: Audio Device Manager Shutdown
+[2021.09.26-02.15.08:612][364]LogExit: Preparing to exit.
+[2021.09.26-02.15.08:979][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.09.26-02.15.09:180][364]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.15.09:183][364]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.15.09:185][364]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.15.09:187][364]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.15.09:188][364]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.15.09:189][364]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.15.09:190][364]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.15.09:217][364]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.09.26-02.15.09:222][364]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-02.15.09:222][364]LogExit: Editor shut down
+[2021.09.26-02.15.09:222][364]LogExit: Transaction tracking system shut down
+[2021.09.26-02.15.09:354][364]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [../../../Engine/Content/] 
+[2021.09.26-02.15.09:420][364]LogExit: Object subsystem successfully closed.
+[2021.09.26-02.15.09:440][364]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.26-02.15.09:440][364]LogShaderCompilers: Display: Total job queries 122, among them cache hits 40 (32.79%)
+[2021.09.26-02.15.09:440][364]LogShaderCompilers: Display: Tracking 82 distinct input hashes that result in 53 distinct outputs (64.63%)
+[2021.09.26-02.15.09:440][364]LogShaderCompilers: Display: RAM used: 0.28 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.01%
+[2021.09.26-02.15.09:440][364]LogShaderCompilers: Display: ================================================
+[2021.09.26-02.15.09:451][364]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (874)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module SequencerWidgets (872)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module PinnedCommandList (870)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module SkeletonEditor (868)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module AnimationEditor (866)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (864)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (862)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module Voice (860)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module BlueprintGraph (858)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (856)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (854)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module SceneOutliner (852)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module AddContentDialog (850)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module WidgetCarousel (849)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module EditorWidgets (846)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module StatsViewer (844)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (842)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (840)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module AutomationWorker (838)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (836)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module TakeRecorder (835)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (832)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module TakesCore (830)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module OpenXRInput (828)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module GooglePADEditor (826)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (824)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (822)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (820)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (818)
+[2021.09.26-02.15.09:463][364]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (816)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (814)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (812)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (810)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (808)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module WebMMedia (806)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (804)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (802)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module SequenceRecorder (801)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (798)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (796)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (794)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (792)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (790)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (788)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (786)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (784)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (782)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (780)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module PlanarCut (778)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module CharacterAI (776)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module TextureAlignMode (774)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module BspMode (772)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module GeometryMode (770)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (768)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module SmartSnapping (766)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module SessionServices (764)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module MeshPaint (762)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (760)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module FoliageEdit (758)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module LandscapeEditor (756)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module MeshPaintMode (754)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (752)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module ActorPickerMode (750)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module PlacementMode (748)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module ViewportSnapping (746)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module ViewportInteraction (744)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module ClothPainter (742)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (741)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module LogVisualizer (738)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module IntroTutorials (736)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (735)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (732)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (730)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (728)
+[2021.09.26-02.15.09:464][364]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (727)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (724)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (722)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (720)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (718)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module TraceInsights (716)
+[2021.09.26-02.15.09:590][364]MemoryProfiler: Shutdown
+[2021.09.26-02.15.09:590][364]NetworkingProfiler: Shutdown
+[2021.09.26-02.15.09:590][364]LoadingProfiler: Shutdown
+[2021.09.26-02.15.09:590][364]TimingProfiler: Shutdown
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module TraceServices (715)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (712)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (710)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module InputBindingEditor (708)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module MergeActors (706)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (704)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module LocalizationService (703)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module HardwareTargeting (700)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (698)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module UndoHistory (696)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module XmlParser (694)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module Blutility (692)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (690)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (689)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (686)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (685)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module SettingsEditor (682)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module ProjectLauncher (680)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module SessionFrontend (678)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module ProfilerClient (676)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module DeviceManager (674)
+[2021.09.26-02.15.09:590][364]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (673)
+[2021.09.26-02.15.09:623][364]LogModuleManager: Shutting down and abandoning module AutomationController (670)
+[2021.09.26-02.15.09:623][364]LogModuleManager: Shutting down and abandoning module AutomationWindow (668)
+[2021.09.26-02.15.09:623][364]LogModuleManager: Shutting down and abandoning module Layers (666)
+[2021.09.26-02.15.09:623][364]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (664)
+[2021.09.26-02.15.09:623][364]LogModuleManager: Shutting down and abandoning module DetailCustomizations (662)
+[2021.09.26-02.15.09:623][364]LogModuleManager: Shutting down and abandoning module PackagesDialog (660)
+[2021.09.26-02.15.09:623][364]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (658)
+[2021.09.26-02.15.09:623][364]LogModuleManager: Shutting down and abandoning module Persona (656)
+[2021.09.26-02.15.09:623][364]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (655)
+[2021.09.26-02.15.09:623][364]LogModuleManager: Shutting down and abandoning module AnimGraph (653)
+[2021.09.26-02.15.09:623][364]LogModuleManager: Shutting down and abandoning module Kismet (650)
+[2021.09.26-02.15.09:628][364]LogModuleManager: Shutting down and abandoning module KismetWidgets (649)
+[2021.09.26-02.15.09:628][364]LogModuleManager: Shutting down and abandoning module GraphEditor (646)
+[2021.09.26-02.15.09:629][364]LogModuleManager: Shutting down and abandoning module StructViewer (644)
+[2021.09.26-02.15.09:629][364]LogModuleManager: Shutting down and abandoning module ClassViewer (642)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module Toolbox (640)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module ModuleUI (638)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module OutputLog (636)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module GammaUI (634)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module Documentation (632)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module LiveCoding (630)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module LevelSequence (628)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (626)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module MovieScene (624)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (622)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module LauncherPlatform (620)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module AnalyticsET (618)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module PortalServices (616)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module PortalRpc (614)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module MessagingRpc (612)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (610)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module AudioMixerCore (609)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module AIModule (606)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module GameplayDebugger (605)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module AITestSuite (603)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module NavigationSystem (601)
+[2021.09.26-02.15.09:630][364]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (598)
+[2021.09.26-02.15.09:635][364]LogModuleManager: Shutting down and abandoning module ProfilerService (596)
+[2021.09.26-02.15.09:742][364]LogModuleManager: Shutting down and abandoning module TaskGraph (594)
+[2021.09.26-02.15.09:742][364]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (592)
+[2021.09.26-02.15.09:742][364]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (590)
+[2021.09.26-02.15.09:742][364]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (588)
+[2021.09.26-02.15.09:742][364]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (586)
+[2021.09.26-02.15.09:742][364]LogModuleManager: Shutting down and abandoning module CollectionManager (585)
+[2021.09.26-02.15.09:742][364]LogModuleManager: Shutting down and abandoning module ScreenshotTools (582)
+[2021.09.26-02.15.09:742][364]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (580)
+[2021.09.26-02.15.09:742][364]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (578)
+[2021.09.26-02.15.09:742][364]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (576)
+[2021.09.26-02.15.09:742][364]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (574)
+[2021.09.26-02.15.09:742][364]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (572)
+[2021.09.26-02.15.09:742][364]LogModuleManager: Shutting down and abandoning module LiveLink (570)
+[2021.09.26-02.15.10:046][364]LogModuleManager: Shutting down and abandoning module TakeSequencer (568)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module TakeMovieScene (566)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module SynthesisEditor (564)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module Synthesis (562)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (560)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (558)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module OpenXREditor (556)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (554)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module GooglePAD (552)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module EditableMesh (550)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (548)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module CableComponent (546)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module AssetTags (544)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module AudioCapture (542)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (541)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (538)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (536)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module AppleImageUtils (534)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module AndroidPermission (532)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (530)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (528)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module TemplateSequence (526)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module MediaCompositing (524)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module ImgMedia (522)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (520)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (518)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (516)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (514)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (512)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (510)
+[2021.09.26-02.15.10:047][364]LogOpenImageDenoise: OIDN shutting down
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (508)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module MotoSynth (506)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module MeshConversion (504)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module DynamicMesh (502)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (500)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module GeometricObjects (498)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (496)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (495)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (492)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (490)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (488)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (486)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (484)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (482)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module ChaosNiagara (480)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module FractureEditor (478)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (477)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (474)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (472)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module AutomationUtils (470)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module BackChannel (468)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module AlembicImporter (466)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module AlembicLibrary (465)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module GeometryCache (464)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (463)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (458)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (456)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module PluginBrowser (454)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (452)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (450)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (448)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module CurveEditorTools (446)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (444)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module CryptoKeys (442)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (440)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module UObjectPlugin (438)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (436)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (434)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (432)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (430)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module PluginUtils (428)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (426)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module GitSourceControl (424)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module SourceControl (423)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (420)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (418)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (416)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module GameplayCameras (414)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (412)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (410)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (408)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module Paper2DEditor (406)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (404)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (402)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module SoundFields (400)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (398)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module SignificanceManager (396)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (394)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (392)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (388)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (386)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (384)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module ActorSequence (382)
+[2021.09.26-02.15.10:047][364]LogModuleManager: Shutting down and abandoning module UdpMessaging (380)
+[2021.09.26-02.15.10:148][364]LogModuleManager: Shutting down and abandoning module TcpMessaging (378)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (376)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (374)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (372)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (370)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (368)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (366)
+[2021.09.26-02.15.10:249][364]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (364)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (362)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (360)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (358)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module MagicLeapController (356)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (354)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module MagicLeapAR (352)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (350)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (348)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module Niagara (346)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module SignalProcessing (345)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module NiagaraEditor (343)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module NiagaraCore (340)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (338)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (336)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module FacialAnimation (334)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module DataValidation (332)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (330)
+[2021.09.26-02.15.10:249][364]LogModuleManager: Shutting down and abandoning module LevelEditor (329)
+[2021.09.26-02.15.10:250][364]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (328)
+[2021.09.26-02.15.10:250][364]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (326)
+[2021.09.26-02.15.10:250][364]LogModuleManager: Shutting down and abandoning module MainFrame (324)
+[2021.09.26-02.15.10:250][364]LogModuleManager: Shutting down and abandoning module HotReload (323)
+[2021.09.26-02.15.10:250][364]LogModuleManager: Shutting down and abandoning module ToolMenus (319)
+[2021.09.26-02.15.10:250][364]LogModuleManager: Shutting down and abandoning module ContentBrowser (317)
+[2021.09.26-02.15.10:250][364]LogModuleManager: Shutting down and abandoning module ContentBrowserData (316)
+[2021.09.26-02.15.10:250][364]LogModuleManager: Shutting down and abandoning module TreeMap (313)
+[2021.09.26-02.15.10:250][364]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (310)
+[2021.09.26-02.15.10:250][364]LogModuleManager: Shutting down and abandoning module AnimationSharing (308)
+[2021.09.26-02.15.10:250][364]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (306)
+[2021.09.26-02.15.10:250][364]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (304)
+[2021.09.26-02.15.10:250][364]LogModuleManager: Shutting down and abandoning module Paper2D (302)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (300)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (298)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (296)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module PacketHandler (294)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (292)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (290)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module MediaAssets (288)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module Overlay (286)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module OverlayEditor (285)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module VREditor (282)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module StringTableEditor (280)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (278)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (276)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module FunctionalTesting (274)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (272)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (271)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module UMG (268)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module UMGEditor (267)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module MessageLog (265)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module SlateReflector (260)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module Slate (258)
+[2021.09.26-02.15.10:251][364]LogModuleManager: Shutting down and abandoning module SlateCore (256)
+[2021.09.26-02.15.10:252][364]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (254)
+[2021.09.26-02.15.10:252][364]LogModuleManager: Shutting down and abandoning module UnrealEd (252)
+[2021.09.26-02.15.10:252][364]LogModuleManager: Shutting down and abandoning module MRMesh (250)
+[2021.09.26-02.15.10:252][364]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (248)
+[2021.09.26-02.15.10:252][364]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (246)
+[2021.09.26-02.15.10:252][364]LogModuleManager: Shutting down and abandoning module XAudio2 (244)
+[2021.09.26-02.15.10:252][364]LogModuleManager: Shutting down and abandoning module Networking (242)
+[2021.09.26-02.15.10:252][364]LogModuleManager: Shutting down and abandoning module Core (240)
+[2021.09.26-02.15.10:252][364]LogModuleManager: Shutting down and abandoning module MaterialEditor (238)
+[2021.09.26-02.15.10:252][364]LogModuleManager: Shutting down and abandoning module MovieSceneTools (236)
+[2021.09.26-02.15.10:252][364]LogModuleManager: Shutting down and abandoning module CurveEditor (235)
+[2021.09.26-02.15.10:252][364]LogModuleManager: Shutting down and abandoning module Sequencer (233)
+[2021.09.26-02.15.10:252][364]LogModuleManager: Shutting down and abandoning module EditorStyle (232)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module KismetCompiler (228)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module MeshBuilder (226)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module MeshUtilities (224)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (223)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (206)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module DerivedDataCache (204)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module TargetPlatform (202)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (201)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (199)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (197)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (195)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (193)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (191)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (189)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (187)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (185)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (183)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (181)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (179)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module ImageWrapper (178)
+[2021.09.26-02.15.10:253][364]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (175)
+[2021.09.26-02.15.10:254][364]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (173)
+[2021.09.26-02.15.10:254][364]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (171)
+[2021.09.26-02.15.10:254][364]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (169)
+[2021.09.26-02.15.10:254][364]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (167)
+[2021.09.26-02.15.10:254][364]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (165)
+[2021.09.26-02.15.10:254][364]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (163)
+[2021.09.26-02.15.10:254][364]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (161)
+[2021.09.26-02.15.10:254][364]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (159)
+[2021.09.26-02.15.10:254][364]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (157)
+[2021.09.26-02.15.10:254][364]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (155)
+[2021.09.26-02.15.10:254][364]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (153)
+[2021.09.26-02.15.10:254][364]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (151)
+[2021.09.26-02.15.10:255][364]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (149)
+[2021.09.26-02.15.10:255][364]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (147)
+[2021.09.26-02.15.10:255][364]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (145)
+[2021.09.26-02.15.10:255][364]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (143)
+[2021.09.26-02.15.10:255][364]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (141)
+[2021.09.26-02.15.10:255][364]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (139)
+[2021.09.26-02.15.10:255][364]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (137)
+[2021.09.26-02.15.10:255][364]LogModuleManager: Shutting down and abandoning module Messaging (135)
+[2021.09.26-02.15.10:255][364]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (133)
+[2021.09.26-02.15.10:255][364]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (131)
+[2021.09.26-02.15.10:257][364]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (129)
+[2021.09.26-02.15.10:257][364]LogModuleManager: Shutting down and abandoning module D3D11RHI (126)
+[2021.09.26-02.15.10:257][364]LogModuleManager: Shutting down and abandoning module InputCore (124)
+[2021.09.26-02.15.10:257][364]LogModuleManager: Shutting down and abandoning module Settings (122)
+[2021.09.26-02.15.10:257][364]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (120)
+[2021.09.26-02.15.10:257][364]LogModuleManager: Shutting down and abandoning module PhysXCooking (118)
+[2021.09.26-02.15.10:257][364]LogModuleManager: Shutting down and abandoning module Chaos (116)
+[2021.09.26-02.15.10:257][364]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (114)
+[2021.09.26-02.15.10:257][364]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (113)
+[2021.09.26-02.15.10:258][364]LogModuleManager: Shutting down and abandoning module AVEncoder (112)
+[2021.09.26-02.15.10:258][364]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2021.09.26-02.15.10:258][364]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.09.26-02.15.10:258][364]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2021.09.26-02.15.10:258][364]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2021.09.26-02.15.10:258][364]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2021.09.26-02.15.10:258][364]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2021.09.26-02.15.10:258][364]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2021.09.26-02.15.10:258][364]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2021.09.26-02.15.10:258][364]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2021.09.26-02.15.10:258][364]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2021.09.26-02.15.10:258][364]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2021.09.26-02.15.10:259][364]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2021.09.26-02.15.10:260][364]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2021.09.26-02.15.10:283][364]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2021.09.26-02.15.10:283][364]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.09.26-02.15.10:283][364]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2E7BD30-48E0-DD6B-59DE-D8BE76928F4C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=1692a9e84c56e42c01a566bd686f37f5%7C9bc93f4ac86d445ca0c3f8963d13596b%7C56e04df4-9d37-427a-90d9-cb37fdee8acd&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.09.26-02.15.10:283][364]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.09.26-02.15.10:299][364]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2021.09.26-02.15.10:299][364]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2021.09.26-02.15.10:301][364]LogModuleManager: Shutting down and abandoning module Media (73)
+[2021.09.26-02.15.10:301][364]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2021.09.26-02.15.10:301][364]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2021.09.26-02.15.10:301][364]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2021.09.26-02.15.10:301][364]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2021.09.26-02.15.10:301][364]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2021.09.26-02.15.10:301][364]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2021.09.26-02.15.10:302][364]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2021.09.26-02.15.10:303][364]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.09.26-02.15.10:303][364]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.09.26-02.15.10:303][364]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.09.26-02.15.10:303][364]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.09.26-02.15.10:303][364]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.09.26-02.15.10:303][364]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.09.26-02.15.10:303][364]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.09.26-02.15.10:303][364]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.09.26-02.15.10:303][364]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.09.26-02.15.10:303][364]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.09.26-02.15.10:303][364]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.09.26-02.15.10:367][364]LogD3D11RHI: Shutdown
+[2021.09.26-02.15.10:367][364]LogD3D11RHI: CleanupD3DDevice
+[2021.09.26-02.15.10:388][364]LogExit: Exiting.
+[2021.09.26-02.15.10:394][364]Log file closed, 09/25/21 20:15:10
