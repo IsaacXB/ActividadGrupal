@@ -6,6 +6,8 @@ Isaac Chaves
 Nicolás Chávez
 Willian Collaguazo
 
+Unreal Engine Version 4.27
+
 Trabajo grupal: Nivel básico con personaje
 
 Objetivos 
